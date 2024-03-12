@@ -1,6 +1,13 @@
-# Topic 9: Novel Approach for deploying wireless sensors networks for efficient fine-grained air quality monitoring
+# Topic 11: Outlier Detection in Urban Air Quality Using Mobile Sensor Networks
 
-Focus: Optimization of Sensor Placement Strategies for Effective Urban Air Quality Monitoring 
-In today’s urban environments, air quality monitoring is one of the challenges confronting municipalities to inform strategic urban planning decisions. Fueled by the urge to facilitate decision-making, wireless sensor networks are becoming prevalent leading solutions for collecting fine-grained air quality data, a capability that is attributed to the ubiquitous availability of low-cost air quality sensors. Those sensors are either fixed on specific spots in a city or mounted on moving vehicles. In either case, a deployment approach of those sensors should take financial cost minimization and network coverage into consideration, striking a plausible balance between those tradeoffs. In this research project, the aim is to tackle the problem of minimum-cost sensor node positioning for air pollution monitoring. The solution should aim at an optimal sensors location while ensuring air pollution coverage and network connectivity. A combination of Integer Linear Programming (ILP) and a density-based clustering algorithm such as DBSCAN is mandatory for the project's successful implementation! 
+Focus: Exploring Machine Learning Techniques for Outlier Detection in Hyperlocal Air Quality Data from Moving Vehicles 
 
-[Reference paper](https://inria.hal.science/hal-01392863)
+Compare algorithms such as Distance-based, density-based, LOF, One-Class SVM, local outlier factor 
+
+Also, some of the following algorithms: Local Outlier Factor (LOF), Isolation Forest, One-Class SVM (Support Vector Machine), Elliptic Envelope, Minimum Covariance Determinant (MCD), Robust Covariance,  Mahalanobis Distance, K-Nearest Neighbors (KNN), DBSCAN (Density-Based Spatial Clustering of Applications with Noise), Autoencoder-based methods. 
+
+[Reference paper:](https://www.researchgate.net/publication/347760084_Large-Scale_Outlier_Detection_for_Low-Cost_PM10_Sensors)
+
+***Team***
+- Dr. Isam Al Jawarneh (Supervisor)
+- write your name

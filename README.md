@@ -10,4 +10,4 @@ Also, some of the following algorithms: Local Outlier Factor (LOF), Isolation Fo
 
 ***Team***
 - Dr. Isam Al Jawarneh (Supervisor)
-- write your name
+- Rawda Mohamed Alsuwaidi - U23102940

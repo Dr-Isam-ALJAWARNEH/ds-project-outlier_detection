@@ -21,5 +21,5 @@
 4. [ ] Use DBSCAN and methods described in the reference paper to detect outliers! Compare algorithms such as described in the paper! 
     - 
 ***team***
-- [your name]()
+- [Rawda Mohamed Alsuwaidi - u23102940](***Student***)
 - [Dr. Isam Al Jawarneh](https://isamaljawarneh.github.io/) (***supervisor***)
